@@ -1,4 +1,5 @@
 $(function () {
+debugger;
     var url = "http://localhost:58832/";
 
     // start connection on a different port
