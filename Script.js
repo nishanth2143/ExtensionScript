@@ -1,3 +1,5 @@
+
+<script type="text/javascript">
 $(function () {
 debugger;
     var url = "http://localhost:58832/";
@@ -26,3 +28,4 @@ debugger;
 
     });
 });
+</script>
