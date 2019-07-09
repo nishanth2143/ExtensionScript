@@ -1,6 +1,5 @@
 
 (function () {
-debugger;
     var url = "http://localhost:58832/";
 	console.log(url);
 
@@ -27,4 +26,4 @@ debugger;
         });
 
     });
-});
+})();
