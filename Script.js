@@ -2,6 +2,7 @@
 (function () {
 debugger;
     var url = "http://localhost:58832/";
+	console.log(url);
 
     // start connection on a different port
     $.connection(url).start().done(function () {
