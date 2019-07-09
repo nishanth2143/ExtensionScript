@@ -1,5 +1,5 @@
 
-$(function () {
+(function () {
     var url = "http://localhost:58832/";
 	console.log(url);
 
@@ -26,4 +26,4 @@ $(function () {
         });
 
     });
-});
+})();
